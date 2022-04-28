@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to our GitHub profile! 👋
+##### --Metaballix Team
 
 <!--
 **metaballix/metaballix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
